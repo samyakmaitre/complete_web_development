@@ -12,6 +12,32 @@ body {
 
 h1 {
   font-size: 5rem;
+  width: 70%;
+}
+
+.card img{
+  height: 200px;
+  float: left;
+  padding: 0px 20px;
+}
+
+.card{
+  
+  display: inline;
+  height: 100px;
+  width: 50%;
+}
+
+.left{
+  float: left;
+}
+
+.right{
+  float: right;
+}
+
+.card-text{
+  padding: 0px 60px;
 }
 
 footer {
